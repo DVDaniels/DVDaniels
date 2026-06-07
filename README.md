@@ -1,10 +1,5 @@
-- 👋 Hi, I’m David Daniels
-- 👀 I’m interested in mostly learning how to connect and share information on the web.
-- 🌱 I’m currently learning JavaScript along with React.
-- 💞️ I’m looking to collaborate on ... a little busy for his but I am always open to projects that will increase my learning curve.
-- 📫 How to reach me ... mailto:David@DavidDaniels.dev
-
-<!---
-DVDaniels/DVDaniels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m David Daniels.
+- ✍️ I write weekly essays on personal growth, technology, and nostalgia at [DavidDaniels.com](https://daviddaniels.com) — my home on the web since 2001.
+- 🎨 I run [Sprinkle of Ginger](https://sprinkleofginger.com), a boutique web design studio in Charlotte, NC.
+- 🛠️ WordPress, JavaScript, HTML/CSS/SASS — twenty-five years of building for the web.
+- 📫 How to reach me: david@daviddaniels.com
